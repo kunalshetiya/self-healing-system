@@ -100,5 +100,9 @@ Deploy to AWS/EC2 or Kubernetes
 Add more sophisticated ML models
 Implement actual Docker SDK for restarts
 
+Grafana Dashboard :
+<img width="1519" height="808" alt="Screenshot 2026-03-31 235156" src="https://github.com/user-attachments/assets/12c69eab-2fc8-48b1-883d-fafe05bf1038" />
+
+
 
 Made with ❤️ for learning DevOps + ML + Distributed Systems
