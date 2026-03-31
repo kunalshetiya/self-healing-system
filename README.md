@@ -14,18 +14,30 @@ A production-grade self-monitoring and self-healing distributed system built wit
 
 ## Architecture
 Microservices (user + order)
+
 ↓
+
 Logs + Metrics
+
 ↓
+
 Prometheus
+
 ↓
+
 Grafana Dashboard
+
 ↓
+
 ML Anomaly Detector (Isolation Forest)
 ↓
+
 Decision Engine
+
 ↓
+
 Response Engine (Automation)
+
 text## Tech Stack
 
 - **Backend**: Python + FastAPI
